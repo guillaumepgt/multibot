@@ -1,2 +1,8 @@
-# Idea
+/target
+*.db
+*.db-shm
+*.db-wal
+.env
+dist
+node_modules
 .idea/
