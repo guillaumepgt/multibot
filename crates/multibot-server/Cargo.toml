@@ -12,7 +12,6 @@ multibot-core = { path = "../multibot-core" }
 multibot-tools = { path = "../multibot-tools" }
 tokio = { workspace = true }
 serde = { workspace = true }
-serde_json = { workspace = true }
 tracing = { workspace = true }
 tracing-subscriber = { workspace = true }
 anyhow = { workspace = true }
